@@ -1,0 +1,17 @@
+{"payload":
+    {   "secAttrDate": "",
+        "compDate": "",
+        "indexSymbol": "", 
+        "stoxxID": [
+
+     ], 
+   "vendorItems" : [
+
+   ], 
+        "vendorName" : "ISS",
+        "output" : "CSV"
+    },
+    "headers" :{
+    "Content-Type": "application/json"
+
+    }}
